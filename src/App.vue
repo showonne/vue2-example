@@ -20,7 +20,7 @@ export default {
       msg: 'Hello Vue!'
     }
   },
-  components: { firstcomponent, secondcomponent }
+  //components: { firstcomponent, secondcomponent }
 }
 
 
