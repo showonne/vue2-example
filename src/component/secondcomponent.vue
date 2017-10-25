@@ -3,7 +3,7 @@
     <h1>I am another page</h1>
     <el-card class="box-card">
       <div slot="header" class="clearfix">
-        <h1 style="line-height: 36px; color: #20A0FF">豆瓣电影排行榜</h2>
+        <h1 style="line-height: 36px; color: #20A0FF">豆瓣电影排行榜</h1>
       </div>
       <div v-for="article in articles" class="text item">
         {{article.title}}
