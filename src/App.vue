@@ -13,14 +13,13 @@
 
 <script>
 import firstcomponent from './component/firstcomponent.vue'
-import secondcomponent from './component/secondcomponent.vue'
 export default {
   data () {
     return {
       msg: 'Hello Vue!'
     }
   },
-  components: { firstcomponent, secondcomponent }
+  components: { firstcomponent }
 }
 
 
